@@ -20,6 +20,4 @@ from . import views
 
 urlpatterns = [
     path('', views.home, name = 'home'),
-    path('dash-project', views.dash, name = 'dash'),
-    path('data-project', views.datascience, name = 'datascience'),
 ]
