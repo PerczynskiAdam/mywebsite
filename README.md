@@ -1,5 +1,5 @@
 # Portfolio website
-Portfolio created with boostrap theme
+Portfolio created with bootstrap theme
 
 http://adamper.pythonanywhere.com/
 
